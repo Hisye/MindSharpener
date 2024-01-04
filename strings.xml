@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MindSharpener</string>
+    <string name="textview1">Instructions:</string>
+    <string name="textview2">This is a simple mathematic games which is believed can train your brain. Tow numbers are given randomly based on your level choice together with the operator. You just need to calculate the answer, write your answer and press the check button.every corrent answer will give you 1 point while wrong answer will deduct 1 point.</string>
+    <string name="textview3">Choose Level:</string>
+    <string name="textview4">1</string>
+    <string name="textview5">+</string>
+    <string name="textview6">1</string>
+    <string name="textview7">POINT:</string>
+    <string name="textview8">0</string>
+    <string name="radio1">i3</string>
+    <string name="radio2">i5</string>
+    <string name="radio3">i7</string>
+    <string name="editText"></string>
+    <string name="button">Submit</string>
+    <string name="points"></string>
+
+
+
+</resources>
